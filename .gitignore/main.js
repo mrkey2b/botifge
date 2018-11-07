@@ -11,7 +11,7 @@ bot.on("ready", () => {
 
 });
 
-bot.login('KLO7eQSRnqejDGZf8z6_M8KJtNMSV6OF');
+bot.login('NDAyNDM4Njc5MTYwNjg0NTQ0.DsT9zg.Ue_QMT2-ABJD28UmN5YDWezktmM');
 
 bot.on('message', message => {
     if (message.content === "ntest"){
